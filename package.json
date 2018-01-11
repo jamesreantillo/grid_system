@@ -1,0 +1,22 @@
+{
+  "name": "grid_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/sass.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesreantillo/grid_system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesreantillo/grid_system/issues"
+  },
+  "homepage": "https://github.com/jamesreantillo/grid_system#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
